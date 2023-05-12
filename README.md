@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer from Bangladesh.</h3>
 
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://habiburrahman.netlify.app/](https://habiburrahman.netlify.app/)
 
