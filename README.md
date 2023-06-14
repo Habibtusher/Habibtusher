@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NextJs, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://habiburrahman.netlify.app/](https://habiburrahman.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://habiburrahman.dev/](https://habiburrahman.dev/)
 
 - 💬 Ask me about **anything related to MERN stack and related technologies**
 
