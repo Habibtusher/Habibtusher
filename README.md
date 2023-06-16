@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full-stack web developer from Bangladesh.</h3>
 
 
-- 🌱 I’m currently learning **NextJs, Typescript**
+- 🌱 I’m currently learning **Node,Express,Mongoose,Typescript**
 
 - 👨‍💻 All of my projects are available at [https://habiburrahman.dev](https://habiburrahman.dev)
 
-- 💬 Ask me about **anything related to MERN stack and related technologies**
+- 💬 Ask me about **anything related to the MERN stack and related technologies**
 
 - 📫 How to reach me **habiburrahmantusher7@gmail.com**
 
