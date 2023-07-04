@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **habiburrahmantusher7@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Wh7oM6vEfEpkxfSZXk5kW0A9H5DojVep/view?usp=share_link](https://drive.google.com/file/d/1Wh7oM6vEfEpkxfSZXk5kW0A9H5DojVep/view?usp=share_link)](https://drive.google.com/file/d/1_SUe69oVmYJNj70OUXv6Rkk_CYY2O5pL/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1_SUe69oVmYJNj70OUXv6Rkk_CYY2O5pL/view?usp=drive_link
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
