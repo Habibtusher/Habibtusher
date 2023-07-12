@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer from Bangladesh.</h3>
 
 
-- 🌱 I’m currently learning **Node,Express,Mongoose,Typescript**
+- 🌱 I’m currently learning **NextJs, Redux ,Typescript**
 
 - 👨‍💻 All of my projects are available at [https://habiburrahman.dev](https://habiburrahman.dev)
 
