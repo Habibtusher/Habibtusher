@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer from Bangladesh.</h3>
 
 
-- 🌱 I’m currently learning **PostgresSQL, Prisma, Typescript**
+- 🌱 I’m currently learning **PostgreSQL, GraphQL, Prisma, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://habiburrahman.dev](https://habiburrahman.dev)
 
