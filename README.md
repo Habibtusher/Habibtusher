@@ -1,43 +1,45 @@
 <div align="center">
-  <h1>System.Engineer(Habibur_Rahman)</h1>
-  <p><strong>Bangladesh Based | Full-Stack Web Developer</strong></p>
-
-  <img src="https://img.shields.io/badge/Status-Actively_Learning_PostgreSQL-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-TypeScript_Architectures-blue?style=flat-square" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+  <h1>Habibur Rahman</h1>
+  <p><strong>Full-Stack Engineer | Bangladesh</strong></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Focus-TypeScript_&_GraphQL-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Stack-MERN_&_Postgres-green?style=flat-square" />
+    <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-orange?style=flat-square" />
+  </p>
 </div>
 
 ---
 
-### 📡 System Capabilities (AI-Portfolio Logic)
-> **Neural Processing:** Specialized in creating fast, responsive UIs using **React** and **Tailwind CSS**.
-> **Data Orchestration:** Shifting backend paradigms toward **GraphQL** and **Prisma** for high-performance data fetching.
-> **Logic & Optimization:** Deep understanding of JavaScript internals and C for foundational problem-solving.
+### 🛰️ Neural Interface (Portfolio Overview)
+> **Modern Logic:** Building responsive, high-performance UIs with **React** and **Tailwind**.
+> **Data Integrity:** Transitioning to **PostgreSQL** and **Prisma** for enterprise-grade database management.
+> **Scalability:** Designing modular APIs with **Node.js** and **GraphQL** to support growing applications.
 
-### 🛠️ Professional Tooling
-- **Languages:** `JavaScript (ES6+)`, `TypeScript`, `C`, `HTML5/CSS3`
-- **Frameworks:** `React`, `Node.js`, `Express`, `Angular`
-- **Infrastructure:** `PostgreSQL`, `MongoDB`, `Prisma`, `Firebase`, `Git`
+### 🛠️ Hardware & Software
+- **Languages:** `TypeScript`, `JavaScript (ES6+)`, `C`
+- **Frontend:** `React.js`, `Next.js`, `Redux`, `Tailwind CSS`
+- **Backend:** `Node.js`, `Express.js`, `GraphQL`, `Prisma`
+- **Storage:** `PostgreSQL`, `MongoDB`, `Firebase`
 
 ---
 
-### 📂 High-Performance Repositories
+### 🏆 Featured Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=habibtusher&repo=YOUR_REPO&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=habibtusher&repo=YOUR_REPO&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=habibtusher&repo=YOUR_REPO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=habibtusher&repo=YOUR_REPO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Performance Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibtusher&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
 
-### 🤝 Establishing Connection
+### 🤝 Establish Connection
 <p align="center">
   <a href="https://linkedin.com/in/habibur-rahman7"><strong>LinkedIn</strong></a> • 
   <a href="https://habiburrahman.dev"><strong>Portfolio</strong></a> • 
@@ -45,5 +47,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=habibtusher&label=Traffic_Analytic&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=habibtusher&label=Profile_Views&color=0e75b6&style=flat-square" />
 </div>
