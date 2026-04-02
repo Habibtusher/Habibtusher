@@ -11,7 +11,7 @@
 
 ---
 
-### 🛰️ Neural Interface (Portfolio Overview)
+### 🛰️ Overview
 > **Modern Logic:** Building responsive, high-performance UIs with **React** and **Tailwind**.
 > **Data Integrity:** Transitioning to **PostgreSQL** and **Prisma** for enterprise-grade database management.
 > **Scalability:** Designing modular APIs with **Node.js** and **GraphQL** to support growing applications.
