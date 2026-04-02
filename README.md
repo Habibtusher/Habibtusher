@@ -1,65 +1,104 @@
-# Hello, I'm Habibur Rahman 👋
-### Full-Stack Web Developer | MERN & TypeScript Enthusiast
-
-A passionate software developer from Bangladesh focused on building scalable, user-centric web applications. I specialize in the JavaScript ecosystem and am currently expanding my expertise into type-safe backend architectures.
-
----
-
-### 🚀 About Me
-
-- 🛠️ **Expertise:** Deeply experienced in the **MERN Stack** (MongoDB, Express, React, Node.js).
-- 🎓 **Learning:** Currently mastering **PostgreSQL**, **GraphQL**, **Prisma**, and advanced **TypeScript** patterns.
-- 👨‍💻 **Portfolio:** Check out my work at [habiburrahman.dev](https://habiburrahman.dev)
-- 💬 **Ask Me About:** JavaScript, React optimization, and backend architecture.
-- ⚡ **Fun Fact:** I love the challenge of turning complex problems into elegant, functional code.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Redux, Angular, Tailwind CSS, Bootstrap, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, GraphQL (Learning) |
-| **Database** | MongoDB, PostgreSQL (Learning), Prisma (Learning), Firebase |
-| **Languages** | JavaScript (ES6+), TypeScript, C |
-| **Tools/OS** | Git, GitHub, Linux, VS Code |
-
----
-
-### 📊 My GitHub Stats
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibtusher&show_icons=true&theme=tokyonight&count_private=true" alt="Habibur's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habibtusher&layout=compact&theme=tokyonight&hide=c" alt="Top Languages" height="180" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+👋,+I'm+Habibur+Rahman;Full+Stack+Developer;MERN+%7C+Next.js+%7C+GraphQL;Building+Scalable+Web+Applications" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibtusher&theme=tokyonight" alt="GitHub Streak" />
+<h3 align="center">🚀 Passionate Full-Stack Developer from Bangladesh</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Engineer with **3+ years of experience**
+- 🔭 Currently building **scalable web applications**
+- ⚙️ Working with **Next.js, MERN, GraphQL, FastAPI**
+- 🌱 Learning **PostgreSQL, Prisma, TypeScript**
+- 🧠 Interested in **System Design & Backend Architecture**
+- 📫 Reach me at: **dev.habiburrahman@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,fastapi" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,linux" />
 </p>
 
 ---
 
-### 🏆 Achievements
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=habibtusher&theme=tokyonight&column=7" alt="Trophies" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=habibmw&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmw&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibmw&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+- 🧩 **Event Management System**
+  - Offline-first (PWA + IndexedDB)
+  - QR scanning & badge generation
+
+- 📧 **Email Marketing Platform**
+  - Drip campaigns & analytics
+  - SendGrid integration with webhooks
+
+- 🔗 **CRM Integration System**
+  - Facebook Leads + Freshworks sync
+  - Multi-tenant architecture
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/habibmw">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/habibur-rahman7">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/habibtusher0">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## 🌍 Portfolio & Resume
 
-<p align="left">
-  <a href="https://linkedin.com/in/habibur-rahman7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Habibur Rahman LinkedIn" /></a>
-  <a href="https://twitter.com/habibtusher0" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Habibur Rahman Twitter" /></a>
-  <a href="mailto:dev.habiburrahman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Habibur" /></a>
-  <a href="https://drive.google.com/file/d/1_SUe69oVmYJNj70OUXv6Rkk_CYY2O5pL/view?usp=drive_link" target="blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Habibur Rahman Resume" /></a>
-</p>
+- 🌐 Portfolio: https://habiburrahman.dev  
+- 📄 Resume: https://drive.google.com/file/d/1_SUe69oVmYJNj70OUXv6Rkk_CYY2O5pL/view  
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning complex problems into simple, scalable solutions 🚀
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habibtusher&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  ⭐️ From <a href="https://github.com/habibmw">habibmw</a>
 </p>
