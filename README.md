@@ -26,7 +26,7 @@
 
 ### 🏆 Featured Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=habibtusher&repo=YOUR_REPO&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/Habibtusher/meal_manager?username=habibtusher&repo=YOUR_REPO&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=habibtusher&repo=YOUR_REPO&theme=tokyonight&hide_border=true" />
 </p>
 
